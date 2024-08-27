@@ -1,7 +1,7 @@
 # CNN for Respiratory Infection Detection - Final Project 
 
 # Overview
-This repository and project focus on a Convolutional Neural Network (CNN) model designed to predict the presence of pneumonia in anterior chest X-ray images. The dataset, provided by Paul Mooney and posted on Kaggle, contains de-identified X-ray images categorized as "normal" or "pneumonia" and is split into training and testing folders. This repository includes everything needed to recreate the model, the code to deploy it on a website, and the dataset itself.
+This repository and project focus on a Convolutional Neural Network (CNN) model designed to predict the presence of pneumonia in anterior chest X-ray images. The dataset, provided by Paul Mooney and posted on Kaggle, contains anonymized X-ray images categorized as "normal" or "pneumonia" and is split into training and testing folders. This repository includes everything needed to recreate the model, the code to deploy it on a website, and the dataset itself.
 
 Data Source:
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
